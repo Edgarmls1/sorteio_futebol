@@ -15,7 +15,7 @@ void sort(int array[], int n) {
     }
 }
 
-//printa os minutos em que os gols aconteceram
+//funçao para printar os minutos em que os gols aconteceram
 void printArray(int array[], int n) {
     for (int i = 0; i < n; i++) {
         printf("(%d)", array[i]);
